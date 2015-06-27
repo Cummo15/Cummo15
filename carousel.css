@@ -68,7 +68,6 @@ body {
 .marketing .col-lg-4 {
   margin-bottom: 20px;
   text-align: center;
-  
 }
 .marketing h2 {
   font-weight: normal;
@@ -77,10 +76,7 @@ body {
   margin-right: 10px;
   margin-left: 10px;
 }
-.marketing {
-display: block;
-  margin: 15px auto;
-}
+
 /* Featurettes
 ------------------------- */
 
