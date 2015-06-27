@@ -68,6 +68,7 @@ body {
 .marketing .col-lg-4 {
   margin-bottom: 20px;
   text-align: center;
+  vertical-align: middle;
 }
 .marketing h2 {
   font-weight: normal;
