@@ -68,10 +68,10 @@ body {
 .marketing .col-lg-4 {
   margin-bottom: 20px;
   text-align: center;
-  vertical-align: middle;
 }
 .marketing h2 {
   font-weight: normal;
+  vertical-align: middle;
 }
 .marketing .col-lg-4 p {
   margin-right: 10px;
