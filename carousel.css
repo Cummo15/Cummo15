@@ -17,7 +17,7 @@ body {
   top: 0;
   right: 0;
   left: 0;
-  /*z-index: 20;*/
+  z-index: 20;
 }
 
 /* Flip around the padding for proper display in narrow viewports */
@@ -99,7 +99,7 @@ body {
 @media (min-width: 768px) {
   /* Navbar positioning foo */
   .navbar-wrapper {
-    margin-top: 20px;
+    /*margin-top: 20px;*/
   }
   .navbar-wrapper .container {
     padding-right: 15px;
