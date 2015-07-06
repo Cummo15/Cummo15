@@ -10,5 +10,12 @@
 }
 
 .footer {
-	text-align: center;
+	padding-left: 40px;
+	
+}
+
+.cont_rgt {
+	  float: right;
+  height: auto;
+  width: 64%;
 }
