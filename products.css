@@ -12,15 +12,14 @@
 .cont_rgt {
 float: right;
   height: auto;
-  width: 64%;
+  width: 70%;
   font-size: 1.0em;
   line-height: 21px;
 }
 
 .cont_rgt h1 {
   font-size: 30px;
-  color: #018643;
-  font-style: italic;
+  color: #444;
   margin: 0px;
   padding-bottom: 0.8em;
   font-weight: bold;
