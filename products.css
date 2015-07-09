@@ -10,11 +10,19 @@
 }
 
 .cont_rgt {
+float: right;
+  height: auto;
+  width: 64%;
+  font-size: 1.0em;
+  line-height: 21px;
+
 
 }
 
 .cont_lft {
-
+   float: left;
+  height: auto;
+  width: 250px;
 }
 
 .navbar-brand {
