@@ -7,6 +7,11 @@ body {
   color: #5a5a5a;
 }
 
+navbar-brand{
+  font-size: 16px;
+}
+
+
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
