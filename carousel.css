@@ -4,8 +4,9 @@
 
 body {
   padding-top: 50px;
-  color: #5a5a5a;
+  color: #fff;
   font-size: 18px;
+  background-image: url('../images/bg.jpg');
 }
 
 .navbar-brand {
