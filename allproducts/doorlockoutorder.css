@@ -46,5 +46,10 @@ body {
 }
 
 .form-horizontal {
-	color: #444;
+	color: #fff;
+}
+
+.controls {
+	color: #444;	
+}
 }
