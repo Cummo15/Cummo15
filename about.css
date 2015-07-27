@@ -21,3 +21,8 @@
 	color: #444;
 	font-weight: bold;
 }
+
+.body {
+	background-image: url("../images/bg.jpg") repeat;
+	color: #FFFFFF;
+}
