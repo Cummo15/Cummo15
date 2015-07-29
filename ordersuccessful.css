@@ -27,3 +27,7 @@ body {
 	background-image: url('../images/bg.jpg');
 	color: #fff;
 }
+
+input[type="submit"] {
+    padding-left: 20px;
+}
