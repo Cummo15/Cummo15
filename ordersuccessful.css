@@ -1,0 +1,29 @@
+.main_width {
+	width:1100px;
+	height:auto;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.title {
+	padding-top: 50px;
+	text-align: center;
+}
+
+.cont_rgt {
+  font-size: 18px;
+}
+
+.navbar-brand {
+  font-size: 16px;
+}
+
+.title h1 {
+	color: #fff;
+	font-weight: bold;
+}
+
+body {
+	background-image: url('../images/bg.jpg');
+	color: #fff;
+}
