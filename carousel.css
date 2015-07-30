@@ -23,6 +23,12 @@ body {
   margin-bottom: 10px;
 }
 /* Since positioning the image, we need to help out the caption */
+
+.carousel-control.left, 
+.carousel-control.right {
+    background-image: none
+}
+
 .carousel-caption {
   z-index: 10;
   color: #fff;
