@@ -29,8 +29,9 @@ body {
 }
 
 .carousel-caption h1 {
-  font-size: 24px;
+  font-size: 72px;
   color: #fff;
+  font-weight: bold;
 }
 .carousel-caption p {
   font-size: 18px;
