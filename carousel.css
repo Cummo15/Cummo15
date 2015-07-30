@@ -25,6 +25,7 @@ body {
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
   z-index: 10;
+  top:1em;
 }
 
 /* Declare heights because of positioning of img element */
@@ -40,7 +41,14 @@ body {
   height: 500px;
 }
 
+.carousel-inner{
+   background-image: url("http://upload.wikimedia.org/wikipedia/commons/3/3e/Tux-G2.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    height:200px;
+  }
 
+  
 /* MARKETING CONTENT
 -------------------------------------------------- */
 
