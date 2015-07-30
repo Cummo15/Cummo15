@@ -28,13 +28,10 @@ body {
 }
 
 .carousel-inner{
-   background-image: url('../images/logo2.jpg');
+   background-image: url('../images/logo3.jpg');
     background-position: center center;
     background-repeat: no-repeat;
-    color: black;
-   -webkit-text-fill-color: white; /* Will override color (regardless of order) */
-   -webkit-text-stroke-width: 1px;
-   -webkit-text-stroke-color: black;
+    width: auto;
   }
   
 /* Declare heights because of positioning of img element */
