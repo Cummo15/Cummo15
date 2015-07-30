@@ -29,13 +29,15 @@ body {
 }
 
 .carousel-caption h1 {
-  font-size: 72px;
+  font-size: 48px;
   color: #fff;
   font-weight: bold;
+  -webkit-text-stroke: 1px black;
 }
 .carousel-caption p {
-  font-size: 18px;
+  font-size: 26px;
   color: #fff;
+  -webkit-text-stroke: 1px black;
 }
 
 .carousel-inner{
