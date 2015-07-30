@@ -29,7 +29,8 @@ body {
 
 .carousel-inner{
    background-image: url('../images/logo2.jpg');
-    
+    background-position: center center;
+    background-repeat: no-repeat;
   }
   
 /* Declare heights because of positioning of img element */
