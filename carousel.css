@@ -25,16 +25,24 @@ body {
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
   z-index: 10;
-  color: #444;
+  color: #fff;
 }
 
+.carousel-caption h1 {
+  font-size: 24px;
+  color: #fff;
+}
+.carousel-caption p {
+  font-size: 18px;
+  color: #fff;
+}
 
 .carousel-inner{
    background-image: url('../images/logo4.png');
     background-position: center center;
     background-repeat: no-repeat;
     width: auto;
-    color: #;
+   
   }
   
 /* Declare heights because of positioning of img element */
