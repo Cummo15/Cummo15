@@ -60,7 +60,7 @@ body {
   height: auto;
   background-color: url('../images/logo2.jpg');
 }
-.carousel-inner > .item > img {
+.carousel-inner > img {
   position: absolute;
   top: 0;
   left: 0;
