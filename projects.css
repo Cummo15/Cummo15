@@ -23,13 +23,7 @@
   font-weight: bold;
 }
 
-.banner_bt span {
-    width: 100%;
-    padding-bottom: 10px;
-    margin-bottom: 12px;
-    float: left;
-    border-bottom: solid 1px #cfcfcf;
-}
+
 
 .cont_lft {
    float: left;
