@@ -10,11 +10,9 @@
 }
 
 .cont_rgt {
-float: right;
-  height: auto;
-  width: 70%;
+
   font-size: 18px;
-  line-height: 21px;
+  
 }
 
 .cont_rgt h1 {
