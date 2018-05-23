@@ -10,9 +10,7 @@
 }
 
 .cont_rgt {
-
-  font-size: 18px;
-  
+	font-size: 18px;
 }
 
 .navbar-brand {
@@ -26,7 +24,7 @@
 
 body {
 	background-image: url('../images/bg.jpg');
-	color: #fff;
+	color: #FFFFFF;
 	font-size: 18px;
 	padding-top: 50px;
 }
