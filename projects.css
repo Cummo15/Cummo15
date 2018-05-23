@@ -15,22 +15,6 @@
   
 }
 
-.cont_rgt h1 {
-  font-size: 30px;
-  color: #fff;
-  margin: 0px;
-  padding-bottom: 0.8em;
-  font-weight: bold;
-}
-
-
-
-.cont_lft {
-   float: left;
-  height: auto;
-  width: 250px;
-}
-
 .navbar-brand {
   font-size: 16px;
 }
